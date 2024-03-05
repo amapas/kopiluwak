@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "kopiluwak"
-version = "0.1"
+version = "0.2"
 authors = [
   { name="amapa", email="amapa619@gmail.com" },
 ]
@@ -14,7 +14,7 @@ description = "kopiluwak bikin mencret"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-  'kedongdong==0.2',
+  'kedongdong==0.3',
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
